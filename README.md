@@ -1,2 +1,0 @@
-# ReflectionsBarberStudio
-GitHub Pages
